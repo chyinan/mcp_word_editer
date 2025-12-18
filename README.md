@@ -11,7 +11,6 @@ MCP_WORD_EDITER 用于在本地对文本/词条进行快速处理与编辑，基
 
 ## 快速开始
 ```bash
-python -m venv venv
 venv\Scripts\activate    # Windows
 # 或 (macOS / Linux)
 # source venv/bin/activate
@@ -46,7 +45,6 @@ MCP_WORD_EDITOR is a simple local service implemented in Python for quickly proc
 
 ## Quick Start
 ```bash
-python -m venv venv
 venv\Scripts\activate    # Windows
 # or (macOS / Linux)
 # source venv/bin/activate
